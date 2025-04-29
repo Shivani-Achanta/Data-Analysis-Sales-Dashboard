@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales SQL Dashboard
+# 🍕 Pizza Sales Dashboard
 
 This project focuses on analyzing pizza sales data using **SQL** and creating interactive dashboards in **Excel**, **Power BI**, and **Tableau**.
 
