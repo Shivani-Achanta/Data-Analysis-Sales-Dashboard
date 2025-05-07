@@ -57,6 +57,7 @@ The business needs visibility into key performance metrics and sales trends for 
 | **Excel**   | Table visuals and quick dashboard |
 | **Power BI**| Interactive visual dashboard      |
 | **Tableau** | Rich visualization and storytelling |
+| **Python** | Data Visualization |
 | **GitHub**  | Project tracking and portfolio    |
 
 ---
